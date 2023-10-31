@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project.View
 build_property.RootNamespace = Project.View
-build_property.ProjectDir = C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.View\
+build_property.ProjectDir = C:\Users\cisco01\source\repos\Practica_NCapas\Project.View\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.View
+build_property.MSBuildProjectDirectory = C:\Users\cisco01\source\repos\Practica_NCapas\Project.View
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ShadowCompany/source/repos/Practica_NCapas_Misael/Project.View/Views/Home/Index.cshtml]
+[C:/Users/cisco01/source/repos/Practica_NCapas/Project.View/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ShadowCompany/source/repos/Practica_NCapas_Misael/Project.View/Views/Home/Privacy.cshtml]
+[C:/Users/cisco01/source/repos/Practica_NCapas/Project.View/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ShadowCompany/source/repos/Practica_NCapas_Misael/Project.View/Views/Shared/Error.cshtml]
+[C:/Users/cisco01/source/repos/Practica_NCapas/Project.View/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ShadowCompany/source/repos/Practica_NCapas_Misael/Project.View/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/cisco01/source/repos/Practica_NCapas/Project.View/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ShadowCompany/source/repos/Practica_NCapas_Misael/Project.View/Views/_ViewImports.cshtml]
+[C:/Users/cisco01/source/repos/Practica_NCapas/Project.View/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ShadowCompany/source/repos/Practica_NCapas_Misael/Project.View/Views/_ViewStart.cshtml]
+[C:/Users/cisco01/source/repos/Practica_NCapas/Project.View/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ShadowCompany/source/repos/Practica_NCapas_Misael/Project.View/Views/Shared/_Layout.cshtml]
+[C:/Users/cisco01/source/repos/Practica_NCapas/Project.View/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x5sfgnab2i
