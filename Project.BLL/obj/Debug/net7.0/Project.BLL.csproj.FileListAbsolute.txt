@@ -1,0 +1,14 @@
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\bin\Debug\net7.0\Project.BLL.deps.json
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\bin\Debug\net7.0\Project.BLL.runtimeconfig.json
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\bin\Debug\net7.0\Project.BLL.dll
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\bin\Debug\net7.0\Project.BLL.pdb
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.csproj.AssemblyReference.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.AssemblyInfoInputs.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.AssemblyInfo.cs
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.dll
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\refint\Project.BLL.dll
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.pdb
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\Project.BLL.genruntimeconfig.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.BLL\obj\Debug\net7.0\ref\Project.BLL.dll

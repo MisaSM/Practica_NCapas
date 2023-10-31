@@ -1,0 +1,14 @@
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\bin\Debug\net7.0\Project.Models.deps.json
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\bin\Debug\net7.0\Project.Models.runtimeconfig.json
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\bin\Debug\net7.0\Project.Models.dll
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\bin\Debug\net7.0\Project.Models.pdb
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.csproj.AssemblyReference.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.AssemblyInfoInputs.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.AssemblyInfo.cs
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.csproj.CoreCompileInputs.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.dll
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\refint\Project.Models.dll
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.pdb
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\Project.Models.genruntimeconfig.cache
+C:\Users\ShadowCompany\source\repos\Practica_NCapas_Misael\Project.Models\obj\Debug\net7.0\ref\Project.Models.dll
